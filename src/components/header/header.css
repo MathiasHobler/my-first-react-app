@@ -1,0 +1,8 @@
+.header {
+  background: lightsalmon;
+  position: sticky;
+  top: 0;
+  margin-top: 0;
+  z-index: 5;
+  padding: 0.6em;
+}

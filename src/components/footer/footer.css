@@ -1,0 +1,12 @@
+.footer {
+  background: lightsalmon;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: grid;
+  text-align: center;
+  font-weight: 700;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+}
